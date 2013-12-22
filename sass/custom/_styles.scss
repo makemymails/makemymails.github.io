@@ -18,3 +18,17 @@ html, body {
 footer[role=contentinfo] {
     height: 60px;
 }
+
+#main {
+  max-width: 1000px;
+  padding-top:60px;
+}
+
+#bottom {
+  min-height: 10px;
+  max-height: 10px;
+}
+
+#back {
+  padding-left:200px;
+}
