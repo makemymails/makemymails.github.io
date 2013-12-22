@@ -20,8 +20,8 @@
   <link href="/favicon.png" type="image/png" rel="icon">
   <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
 
-  <link href="/assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="/assets/bootstrap/dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
+  <link href="/javascripts/libs/bootstrap-3.0.0/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="/javascripts/libs/bootstrap-3.0.0/dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
 <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 
 
@@ -33,7 +33,7 @@
   <body   >
     <div id="wrap">
       <header role="banner">
-        <nav class="navbar navbar-default" role="navigation">
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -46,12 +46,9 @@
 
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li >
-                    <a href="/">Blog</a>
-                </li>
-                <li class="active">
-                    <a href="/blog/archives">Archives</a>
-                </li>
+                <li><a href="/">Blog</a></li>
+                <li><a href="/blog/archives">Archives</a></li>
+                <li><a href="/about">About</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
@@ -102,45 +99,26 @@
     </article>
     
   </div>
-
-  
-    <aside class="sidebar col-md-3">
-      
-        <section class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">Recent Posts</h3>
-  </div>
-  
-  <div id="recent_posts" class="list-group">
-    
-  </div>
-</section>
-
-
-
-
-
-
-      
-    </aside>
-  
 </div>
 
         </div>
       </div>
-    </div>
     <footer role="contentinfo"><div class="container">
     <p class="text-muted credits">
   Copyright &copy; 2013 - Your Name<br>
   <small>
       <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>,
-      <span class="credit">customized with <a href="https://github.com/kAworu/octostrap3">octostrap3</a></span>.
+      <span class="credit">customized with <a href="https://github.com/mjhea0/octoplate">Octoplate</a></span>.
   </small>
+  <a href="#" id="back">Back to Top</a>
 </p>
+
+<nav id="bottom" class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
+</nav>
 
 </div>
 </footer>
-    <script src="/assets/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/javascripts/libs/bootstrap-3.0.0/dist/js/bootstrap.min.js"></script>
 <script src="/javascripts/modernizr-2.0.js"></script>
 
 
@@ -164,5 +142,6 @@
 
 
 
+    </div>
   </body>
 </html>
