@@ -4,7 +4,7 @@
   <title><![CDATA[Docs | MakeMyMails]]></title>
   <link href="http://makemymails.github.io/atom.xml" rel="self"/>
   <link href="http://makemymails.github.io/"/>
-  <updated>2014-01-05T16:49:11+05:30</updated>
+  <updated>2014-01-05T17:26:00+05:30</updated>
   <id>http://makemymails.github.io/</id>
   <author>
     <name><![CDATA[MakeMyMailsTeam]]></name>
@@ -18,9 +18,7 @@
     <link href="http://makemymails.github.io/blog/2014/01/05/getting-started/"/>
     <updated>2014-01-05T16:26:04+05:30</updated>
     <id>http://makemymails.github.io/blog/2014/01/05/getting-started</id>
-    <content type="html"><![CDATA[<h1>Getting Started</h1>
-
-<p>Welcome to MakeMyMails! To learn more about MakeMyMails , read the <strong>Overview</strong> which contains a feature list, installation guide and other general information.
+    <content type="html"><![CDATA[<p>Welcome to MakeMyMails! To learn more about MakeMyMails , read the <strong>Overview</strong> which contains a feature list, installation guide and other general information.
 Further reading includes Frequently Asked Questions.</p>
 
 <h2>Table of Contents</h2>
@@ -30,7 +28,12 @@ Further reading includes Frequently Asked Questions.</p>
 
 <ul>
 <li><a href="introduction.html">Introduction</a></li>
-<li><a href="features.html">Features</a></li>
+<li><a href="features.html">Features</a>
+1.Email Channel
+2.Email variables
+3.Email Template: Create and save.
+4.Scheduling mails
+5.Tracking emails</li>
 </ul>
 </li>
 <li><a href="usage.html">Using <strong>MakeMyMails</strong></a>
@@ -49,7 +52,7 @@ Further reading includes Frequently Asked Questions.</p>
 
 <hr />
 
-<p>Any issues? Want to add a new feature? Drop an email at <a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#109;&#105;&#116;&#x74;&#x61;&#108;&#x2e;&#x70;&#x72;&#x61;&#110;&#x6a;&#x61;&#108;&#x40;&#103;&#109;&#x61;&#105;&#108;&#46;&#99;&#111;&#x6d;">&#x6d;&#105;&#116;&#x74;&#x61;&#108;&#46;&#x70;&#114;&#97;&#110;&#106;&#97;&#108;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#99;&#x6f;&#109;</a>
+<p>Any issues? Want to add a new feature? Drop an email at <a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#x6d;&#x69;&#116;&#x74;&#x61;&#x6c;&#x2e;&#112;&#114;&#97;&#x6e;&#106;&#x61;&#x6c;&#64;&#103;&#109;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#109;&#x69;&#x74;&#x74;&#x61;&#108;&#x2e;&#112;&#114;&#x61;&#x6e;&#x6a;&#97;&#x6c;&#x40;&#103;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>
 and we will get back to you.</p>
 ]]></content>
   </entry>
