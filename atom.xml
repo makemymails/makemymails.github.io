@@ -1,16 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Docs | MakeMyMails]]></title>
   <link href="http://makemymails.github.io/atom.xml" rel="self"/>
   <link href="http://makemymails.github.io/"/>
-  <updated>2013-12-23T00:10:56+05:30</updated>
+  <updated>2014-01-05T16:37:38+05:30</updated>
   <id>http://makemymails.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[MakeMyMailsTeam]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Getting started]]></title>
+    <link href="http://makemymails.github.io/blog/2014/01/05/getting-started/"/>
+    <updated>2014-01-05T16:26:04+05:30</updated>
+    <id>http://makemymails.github.io/blog/2014/01/05/getting-started</id>
+    <content type="html"><![CDATA[<h1>Getting Started</h1>
+
+<p>Welcome to MakeMyMails! To learn more about MakeMyMails , read the <strong>Overview</strong> which contains a feature list, installation guide and other general information.
+Further reading includes Frequently Asked Questions.</p>
+
+<h2>Table of Contents</h2>
+
+<ol>
+<li><a href="docs.makemymails.com/overview.html">Overview</a>
+
+<ul>
+<li><a href="docs.makemymails.com/introduction.html">Introduction</a></li>
+<li><a href="docs.makemymails.com/features.html">Features</a></li>
+</ul>
+</li>
+<li><a href="docs.makemymails.com/usage.html">Using <strong>MakeMyMails</strong></a>
+
+<ul>
+<li> <a href="docs.makemymails.com/login.html">Login</a></li>
+<li> <a href="docs.makemymails.com/spreadsheets.html">Spreadsheets</a></li>
+<li> <a href="docs.makemymails.com/templates.html">Email templates</a></li>
+<li> <a href="docs.makemymails.com/scheduling.html">Scheduling mails</a></li>
+<li> <a href="docs.makemymails.com/tracker.html"><strong><em>Email Tracker</em></strong></a></li>
+</ul>
+</li>
+<li><a href="docs.makemymails.com/faq.html">Frequently Asked Questions (<strong>FAQ</strong>)</a></li>
+</ol>
+
+
+<hr />
+
+<p>Any issues? Want to add a new feature? Drop an email at <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#x6d;&#105;&#116;&#x74;&#x61;&#108;&#46;&#112;&#x72;&#97;&#x6e;&#x6a;&#97;&#108;&#x40;&#103;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#109;&#105;&#116;&#x74;&#x61;&#x6c;&#46;&#x70;&#x72;&#97;&#110;&#106;&#97;&#x6c;&#64;&#x67;&#x6d;&#97;&#105;&#108;&#46;&#x63;&#111;&#109;</a>
+and we will get back to you.</p>
+]]></content>
+  </entry>
   
 </feed>
